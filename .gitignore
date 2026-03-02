@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / build (future-proof)
+node_modules/
+dist/
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
