@@ -10,4 +10,4 @@ dist/
 .env
 
 # VS Code settings (optional)
-.vscode/
+.vscode
